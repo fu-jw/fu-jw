@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fu-jw&theme=slateorange&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/fu-jw/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fu-jw&theme=tokyonight&layout=compact&bg_color=30,e96443,904e95&text_color=fff)
 -->
 
 :smiley: Welcome to my profile, you are my 
 ![Visitor Count](https://profile-counter.glitch.me/fu-jw/count.svg) visitor :kissing_heart::kissing_heart:
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fu-jw&theme=slateorange&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/fu-jw/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fu-jw&theme=tokyonight&layout=compact&bg_color=30,e96443,904e95&text_color=fff)
----
+
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=fu-jw&theme=dracula)
 
