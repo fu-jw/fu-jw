@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fu-jw&theme=slateorange&show_icons=true)](https://github.com/fu-jw/github-readme-stats)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fu-jw&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fu-jw&theme=tokyonight)
 ---
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=fu-jw&theme=dracula)
 
