@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **fu-jw/fu-jw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fu-jw&show_icons=true&hide=contribs,prs)](https://github.com/fu-jw/github-readme-stats)
+
+:smiley: Welcome to my profile, you are my 
+![Visitor Count](https://profile-counter.glitch.me/fu-jw/count.svg) visitor :kissing_heart::kissing_heart:
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fu-jw&theme=slateorange&show_icons=true)](https://github.com/fu-jw/github-readme-stats)
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fu-jw&layout=compact&theme=tokyonight)
+---
+![](https://github-readme-activity-graph.cyclic.app/graph?username=fu-jw&theme=dracula)
+
