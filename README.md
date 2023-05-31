@@ -23,7 +23,7 @@ https://github-readme-activity-graph-fredo.vercel.app/
 https://github-readme-activity-graph-cyan.vercel.app/
 -->
 
-:smiley: Welcome to my profile, you are my 
+:smiley: Welcome to my page, you are my 
 ![Visitor Count](https://profile-counter.glitch.me/fu-jw/count.svg) visitor :kissing_heart::kissing_heart:
 ---
 [![Fredo's GitHub stats](https://github-readme-stats-fredo.vercel.app/api?username=fu-jw&count_private=true&theme=slateorange&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/fu-jw)    ![Top Langs](https://github-readme-stats-fredo.vercel.app/api/top-langs/?username=fu-jw&theme=tokyonight&layout=compact&bg_color=30,e96443,904e95&text_color=fff)
