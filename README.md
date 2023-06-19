@@ -1,3 +1,4 @@
+# Hi there 👋
 <!-- 动态打字效果:https://readme-typing-svg.demolab.com/demo/ -->
 <h1 align="center">
   <a href="https://fu-jw.com/">
@@ -5,7 +6,6 @@
   </a>
 </h1>
 
-# Hi there 👋
 <!--
 **fu-jw/fu-jw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,8 +38,11 @@ https://github-readme-activity-graph-cyan.vercel.app/
 ![](https://github-readme-activity-graph-fredo.vercel.app/graph?username=fu-jw&theme=vue)
 
 ---
+
+```md
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+```
 ---
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="80%">
