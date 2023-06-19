@@ -28,7 +28,7 @@ jobs:
 
           # 📰 Recent activity 最近活动
           plugin_activity: yes
-          plugin_activity_days: 0
+          plugin_activity_days: 365
           plugin_activity_filter: issue, public
           plugin_activity_limit: 3
           plugin_activity_load: 300
@@ -45,10 +45,10 @@ jobs:
           plugin_isocalendar_duration: half-year # Display full year instead of half year
 
           # ✨ Stargazers over last weeks
-          plugin_stargazers: yes
+          plugin_stargazers: no
 
           # 🈷️ Most used languages 常用语言统计
-          plugin_languages: yes
+          plugin_languages: no
           plugin_languages_ignored: html, css,pug,scss,stylus,nix # List of languages to ignore (忽略语言)
           plugin_languages_skipped: fu-jw # List of repositories to skip (忽略仓库)
           plugin_languages_colors: github # Make most used languages orange and JavaScript red (语言配色)
@@ -83,7 +83,7 @@ jobs:
 
           # 🗂️ Active projects 我的工程
           plugin_projects: yes
-          plugin_projects_limit: 3
+          plugin_projects_limit: 5
 
           # 🌟 Recently starred repositories
           plugin_stars: yes
