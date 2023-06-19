@@ -28,8 +28,8 @@ jobs:
 
           # 📰 Recent activity 最近活动
           plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, public
           plugin_activity_limit: 3
           plugin_activity_load: 300
           plugin_activity_visibility: all
