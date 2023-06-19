@@ -19,6 +19,10 @@ jobs:
           template: classic
           base: header, activity, community, metadata
           config_timezone: Asia/Shanghai
+          
+          plugin_rss: yes
+          plugin_rss_source: https://fu-jw.github.io/rss
+          plugin_rss_limit: 5
 
           # 🏆 Achievements 我的成就
           plugin_achievements: yes
