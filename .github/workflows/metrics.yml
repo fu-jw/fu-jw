@@ -12,15 +12,15 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: BLOG
-        uses: lowlighter/metrics@latest
-        with:
-          filename: rss.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_rss: yes
-          plugin_rss_source: https://blog.fu-jw.com/rss
-          plugin_rss_limit: 4
+#       - name: BLOG
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: rss.svg
+#           token: NOT_NEEDED
+#           base: ""
+#           plugin_rss: yes
+#           plugin_rss_source: https://blog.fu-jw.com/rss
+#           plugin_rss_limit: 4
           
       - uses: lowlighter/metrics@latest
         name: metrics
