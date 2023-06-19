@@ -12,7 +12,8 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: zylele/social-readme@master
+      - uses: anzhiyu-c/social-readme@master
         with:
           blog_rss_link: https://fu-jw.github.io/atom.xml
-          # douban_name: znyalor
+          blog_limit: 5 # blog数量
+          commit_message: Updated social rss by social-readme # commit说明
