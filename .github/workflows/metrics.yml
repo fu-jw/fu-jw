@@ -35,7 +35,7 @@ jobs:
           plugin_activity_visibility: all
 
           # 🎟️ Follow-up of issues and pull requests
-          plugin_followup: yes
+          plugin_followup: no
           plugin_followup_sections: repositories
           plugin_introduction: yes
           plugin_introduction_title: yes
