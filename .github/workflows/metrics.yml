@@ -12,16 +12,20 @@ jobs:
     permissions:
       contents: write
     steps:
-#       - name: BLOG
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: rss.svg
-#           token: NOT_NEEDED
-#           base: ""
-#           plugin_rss: yes
-#           plugin_rss_source: https://blog.fu-jw.com/rss
-#           plugin_rss_limit: 4
-          
+      # base metrics
+      - name: base_metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: base_metrics.svg
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: anzhiyu-c
+          template: classic
+          config_timezone: Asia/Shanghai
+          base: 'header, activity, community, repositories'
+          plugin_traffic: yes
+          plugin_lines: yes
       - uses: lowlighter/metrics@latest
         name: metrics
         with:
