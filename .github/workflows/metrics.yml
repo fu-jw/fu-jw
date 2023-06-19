@@ -12,17 +12,29 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: BLOG
+        uses: lowlighter/metrics@latest
         with:
+          filename: rss.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_rss: yes
+          plugin_rss_source: https://blog.fu-jw.com/rss
+          plugin_rss_limit: 4
+          
+      - uses: lowlighter/metrics@latest
+        name: metrics
+        with:
+          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: fu-jw
           template: classic
           base: header, activity, community, metadata
           config_timezone: Asia/Shanghai
           
-          plugin_rss: yes
-          plugin_rss_source: https://fu-jw.github.io/rss
-          plugin_rss_limit: 5
+#           plugin_rss: yes
+#           plugin_rss_source: https://fu-jw.github.io/rss
+#           plugin_rss_limit: 5
 
           # 🏆 Achievements 我的成就
           plugin_achievements: yes
