@@ -12,6 +12,10 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: anzhiyu-c/social-readme@master
+        with:
+          blog_rss_link: https://fu-jw.github.io/atom.xml
+          blog_limit: 5 # blog数量
       - uses: athul/waka-readme@master
         name: wakaTime
         with:
