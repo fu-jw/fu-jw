@@ -12,7 +12,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: anzhiyu-c/social-readme@master
+      - uses: zylele/social-readme@master
+        name: recent blog
         with:
           blog_rss_link: https://fu-jw.github.io/atom.xml
           blog_limit: 5 # blog数量
@@ -23,8 +24,9 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
           COMMIT_MESSAGE: Update Wakapi stats
           BLOCKS: "⬜🟨🟩"
-          TIME_RANGE: last_30_days
-          SHOW_TIME: true
+          TIME_RANGE: last_year # last_7_days,last_30_days,last_6_months,last_year,all_time
+          SHOW_TIME: false
+          SHOW_TITLE: true
       - uses: lowlighter/metrics@latest
         name: metrics
         with:
