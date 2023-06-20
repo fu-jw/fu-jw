@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-# Hi there 👋
+# 👋Hi there 
 
 :smiley: Welcome to my page, you are my 
 ![Visitor Count](https://profile-counter.glitch.me/fu-jw/count.svg) visitor :kissing_heart::kissing_heart:
@@ -21,6 +21,7 @@
   </tr>
 </table>
 
+# 🚀 Action
 <!--START_SECTION:waka-->
 
 ```txt
@@ -32,6 +33,8 @@ YAML       0 hrs 0 mins    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 <!--END_SECTION:waka-->
+
+### 📚 <a href="https://blog.fu-jw.com/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
 * <a href='http://fu-jw.com/posts/4275e528.html' target='_blank'>SpringBoot日志</a> - 2023-06-13
