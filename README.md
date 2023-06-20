@@ -33,6 +33,10 @@ YAML       0 hrs 0 mins    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
+<!-- START_SECTION:blog -->
+
+<!-- END_SECTION:blog -->
+
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="80%">
 
