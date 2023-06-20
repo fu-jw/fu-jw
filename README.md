@@ -34,7 +34,11 @@ YAML       0 hrs 0 mins    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 <!-- START_SECTION:blog -->
-
+* <a href='http://fu-jw.com/posts/4275e528.html' target='_blank'>SpringBoot日志</a> - 2023-06-13
+* <a href='http://fu-jw.com/posts/c3b98719.html' target='_blank'>Java日志体系</a> - 2023-06-12
+* <a href='http://fu-jw.com/posts/ab942f3d.html' target='_blank'>SpringBoot自动配置原理浅析</a> - 2023-06-03
+* <a href='http://fu-jw.com/posts/f026602.html' target='_blank'>SpringBoot中常见注解</a> - 2023-06-02
+* <a href='http://fu-jw.com/posts/4ccc97e8.html' target='_blank'>SpringBoot快速入门</a> - 2023-06-01
 <!-- END_SECTION:blog -->
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
