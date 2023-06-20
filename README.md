@@ -21,8 +21,6 @@
   </tr>
 </table>
 
----
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -35,7 +33,6 @@ YAML       0 hrs 0 mins    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
----
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="80%">
 
