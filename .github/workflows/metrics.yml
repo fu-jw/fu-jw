@@ -26,7 +26,6 @@ jobs:
           BLOCKS: "⬜🟨🟩"
           TIME_RANGE: last_year # last_7_days,last_30_days,last_6_months,last_year,all_time
           SHOW_TIME: false
-          SHOW_TITLE: true
       - uses: lowlighter/metrics@latest
         name: metrics
         with:
