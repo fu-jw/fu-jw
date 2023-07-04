@@ -37,11 +37,11 @@ JSON                         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 📚 <a href="https://blog.fu-jw.com/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
-* <a href='http://fu-jw.com/posts/4140de30.html' target='_blank'>AList+云盘+LskyPro 搭建大容量图床</a> - 2023-06-30
-* <a href='http://fu-jw.com/posts/4275e528.html' target='_blank'>SpringBoot日志</a> - 2023-06-13
-* <a href='http://fu-jw.com/posts/c3b98719.html' target='_blank'>Java日志体系</a> - 2023-06-12
-* <a href='http://fu-jw.com/posts/ab942f3d.html' target='_blank'>SpringBoot自动配置原理浅析</a> - 2023-06-03
-* <a href='http://fu-jw.com/posts/f026602.html' target='_blank'>SpringBoot中常见注解</a> - 2023-06-02
+* <a href='http://fu-jw.com/posts/d5a9e6d8.html' target='_blank'>SpringBoot Web开发1-自动配置原理浅析</a> - 2023-07-01
+* <a href='http://fu-jw.com/posts/10ba68de.html' target='_blank'>SpringBoot Web开发2-路径匹配</a> - 2023-07-01
+* <a href='http://fu-jw.com/posts/2ba4c64a.html' target='_blank'>SpringBoot Web开发3-内容协商</a> - 2023-07-01
+* <a href='http://fu-jw.com/posts/3965340.html' target='_blank'>SpringBoot Web开发4-模板引擎</a> - 2023-07-01
+* <a href='http://fu-jw.com/posts/41ac7873.html' target='_blank'>SpringBoot Web开发5-错误处理</a> - 2023-07-01
 <!-- END_SECTION:blog -->
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
