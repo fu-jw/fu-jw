@@ -37,11 +37,11 @@ JSON                               🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ### 📚 <a href="https://blog.fu-jw.com/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
+* <a href='http://fu-jw.com/posts/6d37548c.html' target='_blank'>SpringBoot单元测试</a> - 2023-07-02
+* <a href='http://fu-jw.com/posts/dcf57196.html' target='_blank'>SpringBoot核心特性</a> - 2023-07-02
 * <a href='http://fu-jw.com/posts/d5a9e6d8.html' target='_blank'>SpringBoot Web开发1-自动配置原理浅析</a> - 2023-07-01
 * <a href='http://fu-jw.com/posts/10ba68de.html' target='_blank'>SpringBoot Web开发2-路径匹配</a> - 2023-07-01
 * <a href='http://fu-jw.com/posts/2ba4c64a.html' target='_blank'>SpringBoot Web开发3-内容协商</a> - 2023-07-01
-* <a href='http://fu-jw.com/posts/3965340.html' target='_blank'>SpringBoot Web开发4-模板引擎</a> - 2023-07-01
-* <a href='http://fu-jw.com/posts/41ac7873.html' target='_blank'>SpringBoot Web开发5-错误处理</a> - 2023-07-01
 <!-- END_SECTION:blog -->
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
