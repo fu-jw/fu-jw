@@ -22,7 +22,7 @@ jobs:
         with:
           API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
-          COMMIT_MESSAGE: Update Wakapi stats
+          # COMMIT_MESSAGE: Update Wakapi stats
           BLOCKS: "⬜🟨🟩"
           TIME_RANGE: last_year # last_7_days,last_30_days,last_6_months,last_year,all_time
           SHOW_TIME: false
