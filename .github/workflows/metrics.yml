@@ -17,15 +17,15 @@ jobs:
         with:
           blog_rss_link: https://fu-jw.github.io/atom.xml
           blog_limit: 5 # blog数量
-#       - uses: athul/waka-readme@master@v0.2.1
-#         name: wakaTime
-#         with:
-#           API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
-#           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
-#           COMMIT_MESSAGE: Update Wakapi stats
-#           BLOCKS: "⬜🟨🟩"
-#           TIME_RANGE: last_year # last_7_days,last_30_days,last_6_months,last_year,all_time
-#           SHOW_TIME: false
+      - uses: athul/waka-readme@v0.2.1
+        name: wakaTime
+        with:
+          API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
+          WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+          COMMIT_MESSAGE: Update Wakapi stats
+          BLOCKS: "⬜🟨🟩"
+          TIME_RANGE: last_year # last_7_days,last_30_days,last_6_months,last_year,all_time
+          SHOW_TIME: false
       - uses: lowlighter/metrics@latest
         name: metrics
         with:
