@@ -1,0 +1,32 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+          # meta
+          API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
+          REPOSITORY: fu-jw/fu-jw
+          # content
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ->
+          CODE_LANG: all_time 
+          TIME_RANGE: true
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          # commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
