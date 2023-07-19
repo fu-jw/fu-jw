@@ -13,7 +13,7 @@
 
 <table style="width:100%; cellspacing:0" >
   <tr>
-    <td style="border-collapse: collapse"><img height=190 src="https://github-readme-stats-fredo.vercel.app/api?username=fu-jw&hide_title=true&count_private=true&theme=slateorange&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></td>
+    <td style="border-collapse: collapse"><img height=190 src="https://github-readme-stats-fredo.vercel.app/api?username=fu-jw&include_all_commits=true&hide_title=true&count_private=true&theme=slateorange&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></td>
     <td style="border-collapse: collapse"><img height=190 src="https://github-readme-stats-fredo.vercel.app/api/top-langs/?username=fu-jw&theme=tokyonight&layout=compact&&exclude_repo=fu-jw,fu-jw.github.io&bg_color=30,e96443,904e95&text_color=fff&hide=html,css,scss,pug,stylus,nix" /></td>
   </tr>
   <tr >
