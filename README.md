@@ -11,6 +11,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/fu-jw/count.svg) visitor :kissing_heart::kissing_heart:
 ---
 
+<img src="https://github-readme-activity-graph-fredo.vercel.app/graph?username=fu-jw&theme=vue" />
+<!--
 <table style="width:100%; cellspacing:0" >
   <tr>
     <td style="border-collapse: collapse"><img height=190 src="https://github-readme-stats-fredo.vercel.app/api?username=fu-jw&include_all_commits=true&hide_title=true&count_private=true&theme=slateorange&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></td>
@@ -20,6 +22,7 @@
   <td  colspan="2"><img src="https://github-readme-activity-graph-fredo.vercel.app/graph?username=fu-jw&theme=vue" /></td>
   </tr>
 </table>
+-->
 
 # 🚀 Action
 <!--START_SECTION:waka-->
